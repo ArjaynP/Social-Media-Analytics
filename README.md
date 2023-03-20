@@ -6,8 +6,8 @@ The idea is to execute similar responsibilites/duties as a data analyst and perf
 
 
 To derive this sentiment these were the follwing steps I followed:
- Obtain the dataset.
- Clean the dataset using regular expressions in Notepad++ preferably.
- Import the data into Excel saving as a tsv (tabs separated values), sort it and use Excel’s built in remove duplicate tool (use vba as well to further remove any outstanding duplicates.
- Used a VBA fucntion called SentimentCalc to calculate the sentiment of each tweet.
- Used Excel buitl-in formulas to analyze the results
+  1. Obtain the dataset.
+  2. Clean the dataset using regular expressions in Notepad++ preferably.
+  3. Import the data into Excel saving as a tsv (tabs separated values), sort it and use Excel’s built in remove duplicate tool (use vba as well to further      remove any outstanding duplicates.
+  4. Used a VBA fucntion called SentimentCalc to calculate the sentiment of each tweet.
+  5. Used Excel buitl-in formulas to analyze the results
